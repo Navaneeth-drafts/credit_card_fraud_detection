@@ -5,10 +5,10 @@
 This project aims to detect fraudulent credit card transactions using Logistic Regression. We apply machine learning techniques on a publicly available dataset and evaluate model performance using various metrics.
 
 ## 👥 Team Members
-- **Alice** — Data Preprocessing
-- **Bob** — Exploratory Data Analysis & Feature Engineering
-- **Charlie** — Model Building
-- **Dana** — Model Evaluation & Report Preparation
+- first member — Data Preprocessing
+- second member&fifth member — Exploratory Data Analysis & Feature Engineering
+- third member — Model Building
+-fourth member&sixth member — Model Evaluation & Report Preparation
 
 ## 📂 Project Structure
 ```
@@ -16,20 +16,17 @@ credit-card-fraud-detection/
 │
 ├── data/
 │   ├── raw_data.csv
-│   └── processed_data.csv
 │
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── model_logistic_regression.ipynb
+├── model_logistic_regression.ipynb (This is the main file0
 │
-├── src/
-│   ├── preprocessing.py
+├── src/ (use thia only if you want any further details)
+│   ├── preprocessing.py 
 │   ├── model.py
 │   └── evaluation.py
 │
 ├── results/
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
+│   ├── confusion_matrix.png(if permits)
+│   └── roc_curve.png(if time permits and results are not that efficient)
 │
 ├── README.md
 ├── requirements.txt
