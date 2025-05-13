@@ -8,7 +8,7 @@ This project aims to detect fraudulent credit card transactions using Logistic R
 - first member — Data Preprocessing
 - second member&fifth member — Exploratory Data Analysis & Feature Engineering
 - third member — Model Building
--fourth member&sixth member — Model Evaluation & Report Preparation
+- fourth member&sixth member — Model Evaluation & Report Preparation
 
 ## 📂 Project Structure
 ```
